@@ -23,3 +23,6 @@ Cut YouTube videos with VideoSegments
   - [Twitter](https://twitter.com/videosegments) - short release notes.
   - [Facebook](https://www.facebook.com/videosegments/) - eng dev blog.
   - [VKontakte](https://vk.com/vsegments) - ru dev blog.
+  
+# uBlock Origin Users:
+If you're using uBlock Origin, remember to allow Cloudflare to connect, otherwise editing icons in normal editing mode won't show up.
